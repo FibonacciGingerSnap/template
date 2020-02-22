@@ -1,2 +1,1 @@
-
-console.log('Hello world');
+import './styles/main.sass'
